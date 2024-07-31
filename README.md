@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!;Happy+coding!" alt="Title"></img>
+</div>
+
 <h1 align="left" id="macropower-title">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Wishwa Dissanayake
 <img  align="right" src="https://komarev.com/ghpvc/?username=WishwaDissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="WishwaDissanayaka" /> </h1>
 
