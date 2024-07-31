@@ -34,12 +34,12 @@
 </a>
 
 <h3 align="right"><br>Connect with me :
-<a href="https://www.linkedin.com/in/madhubhashana-mahindarathne-389061230" target="blank">
+<a href="https://www.linkedin.com/in/wishwa-dissanayaka0916" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhubhashana mahindarathne" height="25" width="30" /></a>
   
-<a href="https://www.facebook.com/madhubhashana.mahindarathna" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhubhashana mahindarathna" height="25" width="30" /></a>
+<a href="https://https://https://www.facebook.com/people/Wishwa-Dissanayake" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wishwa dissanayake" height="25" width="30" /></a>
 
-<a href="https://www.youtube.com/@feedhub3164" target="blank">
+<a href="https://" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="feed hub" height="30" width="35" /></a>
 </h3>
