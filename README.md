@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C200&size=30&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!+Happy+coding!" alt="Title"></img>
-</div>
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+![](https://github.com/WishwaDissanayaka/WishwaDissanayaka/blob/main/cover.png)
+
 <h1 align="left" id="macropower-title">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Wishwa Dissanayake
 <img  align="right" src="https://komarev.com/ghpvc/?username=WishwaDissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="WishwaDissanayaka" /> </h1>
 
@@ -38,3 +36,7 @@
 <a href="https://" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="feed hub" height="30" width="35" /></a>
 </h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C200&size=25&center=true&vCenter=true&height=60&width=600&lines=Coding+is+the+modern-day+equivalent+of+magic!;Happy+coding!" alt="Title"></img>
+</div>
