@@ -5,18 +5,18 @@
 
 - 🔭 I’m an undergraduate at the <b>Faculty of Technology, Rajarata University of Sri Lanka</b>
 - 👀 I’m interested in <b>App & Web Development</b>
-- 🌱 I’m currently learning <b>Java, Spring Boot, Python, Flutter</b>
+- 🌱 I’m currently learning <b>Java, Python, Flutter, React, Spring Boot</b>
 - 📫 How to reach me: <b>wishwa916@gmail.com</b>
 
 <h2 align="left">Languages and Frameworks :</h2>
 <p align="left">
 <a href="https://skillicons.dev"> 
-<img src="https://skillicons.dev/icons?i=java,py,js,dart,flutter,firebase,react,nodejs,wordpress,html,css,tailwind,mysql,php,arduino&perline=20" /></a> </p>
+<img src="https://skillicons.dev/icons?i=java,py,js,dart,flutter,firebase,react,nodejs,wordpress,html,css,tailwind,mysql,php&perline=20" /></a> </p>
 
 <h2 align="left">Tools :</h2>
 <p align="left">
 <a href="https://skillicons.dev"> 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,bootstrap,sqlite,docker,git,gitlab,stackoverflow,ai,ps,pr,xd,figma&perline=20" /></a> </p>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,bootstrap,sqlite,docker,git,gitlab,stackoverflow,ai,ps,pr,xd,figma,arduino&perline=20" /></a> </p>
 
 <br>
 <a href="#WishwaDissanayaka-title">
