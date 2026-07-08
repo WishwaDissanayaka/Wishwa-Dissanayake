@@ -18,13 +18,7 @@
 <a href="https://skillicons.dev"> 
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bootstrap,sqlite,docker,git,gitlab,stackoverflow,ai,ps,pr,xd,figma,arduino&perline=20" /></a> </p>
 
-<br>
-<a href="#WishwaDissanayaka-title">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=WishwaDissanayaka&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="WishwaDissanayaka" align="center" /> </a>
 
-<a href="#WishwaDissanayaka-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WishwaDissanayaka&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="WishwaDissanayaka" align="right" />
-</a>
 
 <h3 align="right"><br>Connect with me :
 <a href="https://www.linkedin.com/in/wishwa-dissanayaka0916" target="blank">
